@@ -76,8 +76,8 @@ movie-recommender/
 ## ⚙️ Installation & Run Locally
 
 ```bash
-git clone https://github.com/bhuvanaasankar24/movie-recommender-system.git
-cd movie-recommender-system
+git clone https://github.com/bhuvanaasankar24/movie-recommender.git
+cd movie-recommender
 
 pip install -r requirements.txt
 streamlit run app.py
